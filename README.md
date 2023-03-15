@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="UTF-8">
@@ -40,7 +39,7 @@
 	<p>We do not share your personal information with third parties for marketing or advertising purposes. However, we may share your information with service providers or other third parties who assist us in providing our bot and delivering our services to you. We will only share your information with these parties to the extent necessary to fulfill our obligations to you and subject to appropriate confidentiality and data protection safeguards.</p>
 
 	<h2>Your Rights and Choices</h2>
-	<p>You have the right to access, correct, or delete your personal information at any time. You may also choose to opt-out of certain communications or marketing activities by adjusting your notification preferences within our bot. If you have any questions or concerns about our privacy practices, please contact us at [Your Contact Email].</p>
+	<p>You have the right to access, correct, or delete your personal information at any time. You may also choose to opt-out of certain communications or marketing activities by adjusting your notification preferences within our bot. If you have any questions or concerns about our privacy practices, please contact us at jasminlcaouette@gmail.com.</p>
 
 	<h2>Changes to this Policy</h2>
 	<p>We may update this privacy policy from time to time to reflect changes in our business or legal requirements. If we make any material changes to the way we collect or use your personal information, we will notify you by posting a notice on our website or within our bot.</p>
