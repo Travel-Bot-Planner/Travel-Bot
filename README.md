@@ -1,12 +1,11 @@
-# YourTripBuddy
 <!DOCTYPE html>
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Privacy Policy - Your Trip Buddy</title>
+	<title>Privacy Policy - [Your Bot Name]</title>
 </head>
 <body>
-	<h1>Privacy Policy for Your Trip Buddy</h1>
+	<h1>Privacy Policy for [Your Bot Name]</h1>
 	<p>At [Your Bot Name], we are committed to protecting your privacy and keeping your personal information safe. This privacy policy explains how we collect, use, and protect the personal information you provide to us through our Facebook Messenger travel bot.</p>
 
 	<h2>Information We Collect</h2>
